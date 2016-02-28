@@ -1,0 +1,37 @@
+_repo: The-Fireside-Chats-of-Franklin-Delano-Roosevelt-Radio-Addresses-to-the-American-People-Broadca__5767
+creator:
+  author:
+    agent_name: Roosevelt, Franklin D. (Franklin Delano)
+    aliases:
+    - United States President (1933-1945)
+    - Roosevelt, Franklin Delano
+    birthdate: 1882
+    deathdate: 1945
+    gutenberg_agent_id: '67'
+    url: http://www.gutenberg.org/2009/agents/67
+    wikipedia: http://en.wikipedia.org/wiki/Franklin_D._Roosevelt
+description: ''
+gutenberg_bookshelf: World War II
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5767'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Foreign relations -- 1933-1945 -- Sources'
+- !lcsh 'New Deal, 1933-1939 -- Sources'
+- !lcsh 'United States -- Economic policy -- 1933-1945 -- Sources'
+- !lcsh 'United States -- Politics and government -- 1933-1945 -- Sources'
+- !lcsh 'Depressions -- 1929 -- United States -- Sources'
+- !lcsh 'Roosevelt, Franklin D. (Franklin Delano), 1882-1945 -- Political and social
+  views -- Sources'
+- !lcsh 'Roosevelt, Franklin D. (Franklin Delano), 1882-1945 -- Oratory -- Sources'
+- !lcsh 'United States -- Economic conditions -- 1918-1945 -- Sources'
+- !lcsh 'World War, 1939-1945 -- United States -- Sources'
+- !lcc 'E740'
+title: "The Fireside Chats of Franklin Delano Roosevelt\r\nRadio Addresses to the\
+  \ American People Broadcast Between 1933 and 1944"
+url: http://www.gutenberg.org/ebooks/5767
