@@ -1,5 +1,5 @@
 _repo: The-Fireside-Chats-of-Franklin-Delano-Roosevelt-Radio-Addresses-to-the-American-People-Broadca__5767
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -38,6 +38,7 @@ subjects:
 - !lcsh 'United States -- Economic conditions -- 1918-1945 -- Sources'
 - !lcsh 'World War, 1939-1945 -- United States -- Sources'
 - !lcc 'E740'
+- GITenberg
 title: "The Fireside Chats of Franklin Delano Roosevelt\r\nRadio Addresses to the\
   \ American People Broadcast Between 1933 and 1944"
 url: http://www.gutenberg.org/ebooks/5767
